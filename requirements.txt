@@ -1,0 +1,8 @@
+torch
+torchvision
+segmentation-models-pytorch
+gradio
+numpy
+Pillow
+matplotlib
+scikit-learn
